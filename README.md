@@ -33,7 +33,7 @@ To run the project locally:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/bootstrap-assignment.git
+   git clone https://github.com/wyattmatt/Praktikum-Bootstrap.git
    ```
 2. Open `index.html` in your web browser.
 
